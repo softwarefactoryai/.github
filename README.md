@@ -29,7 +29,7 @@ Our commitment is to inspire our employees 🧑‍💻, captivate our clients wi
 
 ### Our Website 📚
 
-- **[SoftwareFactoryAI.com](www.softwarefactoryai.com):** Our main platform where artificial intelligence and software development meet 🤖.
+- **[SoftwareFactoryAI.com](https://www.softwarefactoryai.com):** Our main platform where artificial intelligence and software development meet 🤖.
 
 ### Contributing 💪
 
