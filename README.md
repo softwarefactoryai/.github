@@ -27,11 +27,9 @@ Our commitment is to inspire our employees 🧑‍💻, captivate our clients wi
 3. **Commitment to Quality:** Our focus on customer satisfaction drives us to exceed expectations 🌟.
 4. **Continuous Innovation:** We believe in constant improvement and staying at the forefront of AI technology 🔧.
 
-### Our Projects 📚
+### Our Website 📚
 
 - **[SoftwareFactoryAI.com](www.softwarefactoryai.com):** Our main platform where artificial intelligence and software development meet 🤖.
-- **[FortunesMeta.bet](www.fortunesmeta.bet):** Innovating in the betting space with cutting-edge technologies 🎰.
-- **[CryptoAICapital.com](www.cryptoaicapital.com):** Transforming cryptocurrency investment through advanced AI 📊.
 
 ### Contributing 💪
 
@@ -41,7 +39,7 @@ We are always on the lookout for passionate and talented contributors who share 
 
 For more information, collaborations, and inquiries, please don't hesitate to contact us:
 - **Email:** contact@softwarefactoryai.com 📧
-- **LinkedIn:** [SoftwareFactoryAI LinkedIn](https://www.linkedin.com/company/softwarefactoryai) 🔗
+- **LinkedIn:** [SoftwareFactoryAI LinkedIn](https://www.linkedin.com/company/107459966) 🔗
 - **Twitter:** [@SoftwareFactoryAI](https://twitter.com/SoftwareFactoryAI) 🐦
 
 We appreciate your interest in SoftwareFactoryAI, where artificial intelligence is the key to unlocking the infinite potential of software development 🗝️.
